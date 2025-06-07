@@ -1,0 +1,2 @@
+# GenerativeRecommendationCompetition
+generative advertising recommendation competition
