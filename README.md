@@ -1,2 +1,3 @@
 # GenerativeRecommendationCompetition
 generative advertising recommendation competition
+生成式召回相关方法实现

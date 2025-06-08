@@ -1,0 +1,12 @@
+python run.py \
+  --dataset_path=./data/baidu_data/1w_sequence_data \
+  --hidden_units=128 \
+  --dropout=0.2 \
+  --num_blocks=2 \
+  --num_heads=1 \
+  --optimizer=Adam \
+  --maxlen=100 \
+  --batch_size=128 \
+  --save_folder=./output/debug_1w \
+  --start_eval_epoch=5 \
+  --eval_interval_epoch=2
